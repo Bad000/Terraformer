@@ -4,6 +4,7 @@
   "description": "A Geo-toolkit built in Javascript.",
   "main": "terraformer.js",
   "files": [
+    "terraformer.js",
     "index.d.ts"
   ],
   "devDependencies": {
